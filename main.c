@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "substrings.h"
+#include <stdlib.h>
 
 void help(const char *name);
 
